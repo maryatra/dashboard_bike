@@ -6,5 +6,5 @@ pip install -r requirments.txt
 '''
 ## Jalankan pada streamlit
 '''
-streamlit run dicoding-first-project.py
+streamlit run dashboard_bike.py
 '''
