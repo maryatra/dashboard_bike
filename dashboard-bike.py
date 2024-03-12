@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # Fungsi untuk mengimpor data
 @st.cache_data
 def load_data():
-    data_df = pd.read_csv('D:\VSCode Project\.venv\Scripts\day.csv')
+    data_df = pd.read_csv('day.csv')
     return data_df
 
 # Fungsi untuk melakukan pembersihan data
